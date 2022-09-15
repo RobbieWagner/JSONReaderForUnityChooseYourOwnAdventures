@@ -5,11 +5,11 @@
                 {
                     "dialogueID": 1,
                     "sentences": [
-                        { "textID": 1, "text": "The day was August 27th, 2020.", "weakChoice": [{"choiceText": "next", "nextTextID": 2}] },
-                        { "textID": 2, "text": "Fall was approaching quickly, and many people were quickly coming up with last minute summer plans.", "weakChoice": [{"choiceText": "next", "nextTextID": 3}]},
-                        { "textID": 3, "text": "I, however, wasn't lucky enough to go out and have fun today.", "weakChoice": [{"choiceText": "next", "nextTextID": 4}]}
+                        { "textID": 1, "text": "This is a line of text", "weakChoice": [{"choiceText": "next", "nextTextID": 2}] },
+                        { "textID": 2, "text": "A line of text should be written into a dialogue box", "weakChoice": [{"choiceText": "next", "nextTextID": 3}]},
+                        { "textID": 3, "text": "Players can flip through the text to read new sentences.", "weakChoice": [{"choiceText": "next", "nextTextID": 4}]}
                     ],
-                    "strongChoice": [{"choiceText" : "Go downstairs for breakfast", "nextDialogueID": 2}]
+                    "strongChoice": [{"choiceText" : "Move to next dialogue", "nextDialogueID": 2}]
                 }
             ]
         }
